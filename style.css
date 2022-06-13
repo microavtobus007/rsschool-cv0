@@ -2,6 +2,11 @@ title {
     font-family: Georgia, Times, serif;
 }
 .color_tag {
-    font-weight: 600;
-    color: #fff;
+    width: 136px;
+    margin: 40px auto 20px;
+    padding: 5px 20px;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #ffffff;
+    background-color: #5F9EA0
 }
