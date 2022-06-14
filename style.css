@@ -1,12 +1,94 @@
-title {
-    font-family: Georgia, Times, serif;
+header {
+	padding: 20px; /* Поля */
+    	background: #C7C3BF; /* Цвет фона */
+ 	text-align: center;
+	text-transform: uppercase;
+    	letter-spacing: 5px;
+	color: #4C2439;
+	    margin: 5px;
+
 }
-.color_tag {
-    width: 136px;
-    margin: 40px auto 20px;
-    padding: 5px 20px;
-    text-align: center;
-    letter-spacing: 1px;
-    color: #ffffff;
-    background-color: #5F9EA0;
+
+body {
+	margin: auto;
+
+}
+
+header img {
+    	margin-bottom: 10px;
+    	border: 10px solid #C7C3BF;
+    	border-radius: 50%;
+}
+
+main {
+	padding: 20px; /* Поля */
+	margin: 5px;
+    	background: #9e8c88; /* Цвет фона */
+}
+
+h2 {
+	margin: 25px 400px 20px 400px;
+	padding: 10px;
+	background: #424242; /*цвет фота заголовков*/
+	color: #fff;
+	text-align: center;
+	text-transform: uppercase;
+   	letter-spacing: 2px;
+	border-radius: 30px;
+	box-shadow: 7px -5px #4C2439;
+}
+.color {
+  	background: #fff;
+
+}
+ul {
+	margin: 10px 400px 0 550px;
+	font-size: 20px;
+	color: #4C2439;
+
+}
+p {
+	margin: 10px 400px 0 435px;
+	font-size: 20px;
+	color: #4C2439;
+}
+
+pre {
+	margin: 10px 435px 20px 435px;
+	font-size: 20px;
+	color: #4C2439;
+	background-color: #C7C4C1;
+    	border-left: 6px solid #4C2439;
+	padding: 10px 20px 30px 20px;
+	border-radius: 10% / 50%;
+}
+
+footer {
+	padding: 10px; /* Поля */
+	margin: 5px;
+    	background: #2b2b2b; /* Цвет фона */
+}
+
+span {
+	color: #C7C2C1;
+
+}
+
+.zad {
+
+	vertical-align: middle;
+	text-align: center;
+}
+
+
+A {
+    	color: #C7C2C1; 
+	text-decoration: none;
+	vertical-align:middle;
+}
+A:visited {
+    	color: #C7C2C1; 
+}
+A:active {
+    	color: #C7C2C1;
 }
